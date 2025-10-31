@@ -1,4 +1,4 @@
-# RqPINN (SciML-QEP)
+# RqPINN (SciML - Quantum Eigenvalue Problems) 
 
 This repository contains codes of current state-of-the art SciML algorithms for solving quantum eigenvalue problems used in a project I conducted with Professor Antonio Herrera Martin during Summer 2025. Even after completing my summer research, the project is still ongoing as I have extended it beyond just PINN, to include FNO's and self-attention matrix to obtain all eigenpairs at once (rather than training a separate neural network for each eigenpair, which was quite computationally expensive and we had to worry about issues like stability and convergence).
 
